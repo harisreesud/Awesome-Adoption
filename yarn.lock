@@ -8500,10 +8500,10 @@ react-country-region-selector@^3.6.1:
   resolved "https://registry.yarnpkg.com/react-country-region-selector/-/react-country-region-selector-3.6.1.tgz#07010051bfff0fbf92e32d1e6952b8cb20932013"
   integrity sha512-/hKRVFVxhsQKV6/csajd9uX4Lz6XHMVNtpKhMn/xGQtZDZrnsr+VeeeeXDooSn5cV0DFAk2eKk9c+otj7Hop9w==
 
-react-daisyui@^3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/react-daisyui/-/react-daisyui-3.0.3.tgz#ebaff595cadec8b859ae7c2457f94074ddabdb71"
-  integrity sha512-H7oxd3W6VmHZvQk6Yenjxxzl9/P75PVON69TMhaVFcJ8e6GV7BdG0lggCOfsxq1bHPr9JFRW85hglStTofJf5w==
+react-daisyui@^3.1.2:
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/react-daisyui/-/react-daisyui-3.1.2.tgz#624ae430ec034db6705117028f9b9273068e8a22"
+  integrity sha512-Wp4L9rpHyI+k7dQpVk4pXqIDubYlavPWiNBREicpJOUVaGhGv5Zm/OokEahtICYokN8nioVdZ/C2bh9981sPGg==
 
 react-dev-utils@^12.0.1:
   version "12.0.1"
