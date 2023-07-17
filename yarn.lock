@@ -7735,10 +7735,10 @@ pkg-up@^3.1.0:
   dependencies:
     find-up "^3.0.0"
 
-postcode-validator@^3.8.0:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/postcode-validator/-/postcode-validator-3.8.0.tgz#e36cd5b717ce0dd8ba9871d1f55a6c877a72a8d6"
-  integrity sha512-8QswVIthkqdbCWyEzQiS2kLiqZZLDSN5LTUM64XMc5dP4OJ8ob2v2y/zl4CkkwZkxmDPnaifepCE0dL+GFne2g==
+postcode-validator@^3.8.12:
+  version "3.8.12"
+  resolved "https://registry.yarnpkg.com/postcode-validator/-/postcode-validator-3.8.12.tgz#2cdb7105e86079b142ba2adfbb72d28a8ac50dc3"
+  integrity sha512-fkz3htfUM9lQzD+DgEg4+VYDnOVeBdV2QRBAUck2QXfONnmaTxUb/ZJgvCUUS6JlRYuyvRNk7clxcZhU1RF4YA==
 
 postcss-attribute-case-insensitive@^5.0.0:
   version "5.0.0"
