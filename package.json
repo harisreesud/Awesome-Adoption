@@ -61,7 +61,7 @@
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.10",
     "@testing-library/react-hooks": "^8.0.1",
-    "@trivago/prettier-plugin-sort-imports": "^4.2.0",
+    "@trivago/prettier-plugin-sort-imports": "^4.2.1",
     "@types/react-test-renderer": "^18.0.3",
     "@types/validator": "^13.9.0",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
