@@ -15,7 +15,7 @@
     "@types/jest": "^29.5.12",
     "@types/node": "^20.12.2",
     "@types/react": "^18.2.74",
-    "@types/react-dom": "^18.2.22",
+    "@types/react-dom": "^18.2.24",
     "daisyui": "^2.52.0",
     "jwt-decode": "^4.0.0",
     "postcode-validator": "^3.8.20",
