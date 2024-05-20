@@ -62,7 +62,7 @@
     "@tailwindcss/typography": "^0.5.13",
     "@testing-library/react-hooks": "^8.0.1",
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
-    "@types/react-test-renderer": "^18.0.7",
+    "@types/react-test-renderer": "^18.3.0",
     "@types/validator": "^13.11.10",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
@@ -84,7 +84,7 @@
     "postcss": "^8.4.38",
     "prettier": "^3.2.5",
     "pretty-quick": "^4.0.0",
-    "react-test-renderer": "^18.2.0",
+    "react-test-renderer": "^18.3.1",
     "standard": "^17.1.0",
     "tailwindcss": "^3.4.3"
   },
