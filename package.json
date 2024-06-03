@@ -82,7 +82,7 @@
     "lint-staged": "^15.2.5",
     "msw": "^2.3.1",
     "postcss": "^8.4.38",
-    "prettier": "^3.2.5",
+    "prettier": "^3.3.0",
     "pretty-quick": "^4.0.0",
     "react-test-renderer": "^18.3.1",
     "standard": "^17.1.0",
