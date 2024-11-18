@@ -1682,10 +1682,10 @@
   resolved "https://registry.npmjs.org/@leichtgewicht/ip-codec/-/ip-codec-2.0.3.tgz"
   integrity sha512-nkalE/f1RvRGChwBnEIoBfSEYOXnCRdleKuv6+lePbMDrMZXeDQnqak5XDOeBgrPPyPfAdcCu/B5z+v3VhplGg==
 
-"@mswjs/interceptors@^0.36.5":
-  version "0.36.5"
-  resolved "https://registry.yarnpkg.com/@mswjs/interceptors/-/interceptors-0.36.5.tgz#c0fc6970a7a9f8c7b9f4c122dbab3827e4cc19a5"
-  integrity sha512-aQ8WF5zQwOdcxLsxSEk9Jd01GgGb80xxqCaiDDlewhtwqpSm8MOvUHslwPydVirasdW09++NxDNNftm1vLY8yA==
+"@mswjs/interceptors@^0.37.0":
+  version "0.37.1"
+  resolved "https://registry.yarnpkg.com/@mswjs/interceptors/-/interceptors-0.37.1.tgz#fe30692c18318b0dba8aa36b390cb0a482fd81a7"
+  integrity sha512-SvE+tSpcX884RJrPCskXxoS965Ky/pYABDEhWW6oeSRhpUDLrS5nTvT5n1LLSDVDYvty4imVmXsy+3/ROVuknA==
   dependencies:
     "@open-draft/deferred-promise" "^2.2.0"
     "@open-draft/logger" "^0.3.0"
@@ -7785,16 +7785,16 @@ ms@2.1.3, ms@^2.1.1:
   resolved "https://registry.npmjs.org/ms/-/ms-2.1.3.tgz"
   integrity sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==
 
-msw@^2.6.4:
-  version "2.6.4"
-  resolved "https://registry.yarnpkg.com/msw/-/msw-2.6.4.tgz#954906f10f23d9364529eebe9b4e244796241a8a"
-  integrity sha512-Pm4LmWQeytDsNCR+A7gt39XAdtH6zQb6jnIKRig0FlvYOn8eksn3s1nXxUfz5KYUjbckof7Z4p2ewzgffPoCbg==
+msw@^2.6.5:
+  version "2.6.5"
+  resolved "https://registry.yarnpkg.com/msw/-/msw-2.6.5.tgz#0d4ec95e6170aff26fcb0734ec1258c1e2bb617d"
+  integrity sha512-PnlnTpUlOrj441kYQzzFhzMzMCGFT6a2jKUBG7zSpLkYS5oh8Arrbc0dL8/rNAtxaoBy0EVs2mFqj2qdmWK7lQ==
   dependencies:
     "@bundled-es-modules/cookie" "^2.0.1"
     "@bundled-es-modules/statuses" "^1.0.1"
     "@bundled-es-modules/tough-cookie" "^0.1.6"
     "@inquirer/confirm" "^5.0.0"
-    "@mswjs/interceptors" "^0.36.5"
+    "@mswjs/interceptors" "^0.37.0"
     "@open-draft/deferred-promise" "^2.2.0"
     "@open-draft/until" "^2.1.0"
     "@types/cookie" "^0.6.0"
