@@ -28,7 +28,7 @@
     "react-router-dom": "^7.0.2",
     "react-scripts": "^5.0.1",
     "react-supabase": "^0.2.0",
-    "swr": "^2.2.5",
+    "swr": "^2.3.0",
     "typescript": "^5.7.2",
     "validator": "^13.12.0"
   },
