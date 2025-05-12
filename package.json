@@ -86,7 +86,7 @@
     "pretty-quick": "^4.1.1",
     "react-test-renderer": "^18.3.1",
     "standard": "^17.1.2",
-    "tailwindcss": "^4.1.5"
+    "tailwindcss": "^4.1.6"
   },
   "jest": {
     "collectCoverageFrom": [
