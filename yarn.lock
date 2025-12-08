@@ -9081,10 +9081,10 @@ possible-typed-array-names@^1.0.0:
   resolved "https://registry.yarnpkg.com/possible-typed-array-names/-/possible-typed-array-names-1.0.0.tgz#89bb63c6fada2c3e90adc4a647beeeb39cc7bf8f"
   integrity sha512-d7Uw+eZoloe0EHDIYoe+bQ5WXnGMOpmiZFTuMWCwpjzzkL2nTjcKiAk4hh8TjnGye2TwWOk3UXucZ+3rbmBa8Q==
 
-postcode-validator@^3.10.5:
-  version "3.10.5"
-  resolved "https://registry.yarnpkg.com/postcode-validator/-/postcode-validator-3.10.5.tgz#702c9617957fbea0bc53a71a078040401e8d493c"
-  integrity sha512-LCeqmmqTC7zCPlfhSWnQb1dZDW3FV4ZB48eislM2Jaq6irENfmqinaDWviIgkMzvAxYRH+pPQgfZ2AE7OsYWAg==
+postcode-validator@^3.10.9:
+  version "3.10.9"
+  resolved "https://registry.yarnpkg.com/postcode-validator/-/postcode-validator-3.10.9.tgz#26a63308a94c404776d535139b24983053ba6e91"
+  integrity sha512-1gDRLSV/ChHRRjgqlM9Mz7chR02wkgoyX+7d1S1OCnskTG8WpGdFasKLmtZYhQVW6Ykq+eASrP+Ph8hG7CtwQA==
 
 postcss-attribute-case-insensitive@^5.0.0:
   version "5.0.0"
