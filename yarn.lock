@@ -9817,10 +9817,10 @@ react-app-polyfill@^3.0.0:
     regenerator-runtime "^0.13.9"
     whatwg-fetch "^3.6.2"
 
-react-country-region-selector@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/react-country-region-selector/-/react-country-region-selector-4.0.3.tgz#eb9a7740a99bd7f503ed2d2c6969c4542335d6db"
-  integrity sha512-m5B59SgwC2YXeUdSMTVdlcc7JIRxU+rRIW4dNopKxFJwuI4Z+1JR2SL6TOZlp6tMxguf+KmSQOT1q4OrpaG+ug==
+react-country-region-selector@^4.0.4:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/react-country-region-selector/-/react-country-region-selector-4.0.4.tgz#0af286bec7bb93023a6b166e17a2bd04b849f328"
+  integrity sha512-kg55azyVhph6JGaEWqK3PYgnb6g2+CAoRTjesSB3f57S2tSIMjQ7QCc4P89TLY9cCcxbzKyhEmaYHccDKEyd7A==
 
 react-daisyui@^3.1.2:
   version "3.1.2"
