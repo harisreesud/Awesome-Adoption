@@ -81,7 +81,7 @@
     "husky": "^9.1.7",
     "lint-staged": "^17.0.8",
     "msw": "^2.15.0",
-    "postcss": "^8.5.19",
+    "postcss": "^8.5.20",
     "prettier": "^3.9.5",
     "pretty-quick": "^4.2.2",
     "react-test-renderer": "^18.3.1",
