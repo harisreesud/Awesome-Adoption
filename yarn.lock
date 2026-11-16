@@ -9038,10 +9038,10 @@ possible-typed-array-names@^1.0.0:
   resolved "https://registry.yarnpkg.com/possible-typed-array-names/-/possible-typed-array-names-1.0.0.tgz#89bb63c6fada2c3e90adc4a647beeeb39cc7bf8f"
   integrity sha512-d7Uw+eZoloe0EHDIYoe+bQ5WXnGMOpmiZFTuMWCwpjzzkL2nTjcKiAk4hh8TjnGye2TwWOk3UXucZ+3rbmBa8Q==
 
-postcode-validator@^3.10.26:
-  version "3.10.26"
-  resolved "https://registry.yarnpkg.com/postcode-validator/-/postcode-validator-3.10.26.tgz#792ecf151c031e68395f08cbdd10aa9561902eda"
-  integrity sha512-PJsqLXFuE3ixpgB9ErVBP68MU9me9cwtR3b+p+bDSPshx7sGBX3sLMX6R3A/KvsbjwlMAqSFslDDkrOlHcHzvw==
+postcode-validator@^3.10.27:
+  version "3.10.27"
+  resolved "https://registry.yarnpkg.com/postcode-validator/-/postcode-validator-3.10.27.tgz#1ba6c2b390624e02add6a8249d18652ecbbd16fc"
+  integrity sha512-ub/ROKHAx4Rvvdw7eRX8zRJF0bT/0HxOIZaYfpCztXd3rp+Mogbl4vaxSS7D5ZX/vOyIGg1JAE1O7kWYG2ECKw==
 
 postcss-attribute-case-insensitive@^5.0.0:
   version "5.0.0"
