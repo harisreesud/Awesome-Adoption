@@ -1801,10 +1801,10 @@
   resolved "https://registry.npmjs.org/@leichtgewicht/ip-codec/-/ip-codec-2.0.3.tgz"
   integrity sha512-nkalE/f1RvRGChwBnEIoBfSEYOXnCRdleKuv6+lePbMDrMZXeDQnqak5XDOeBgrPPyPfAdcCu/B5z+v3VhplGg==
 
-"@msw/url@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@msw/url/-/url-0.1.2.tgz#a9973a073346cbd53a279513c5a78b5376a51e7a"
-  integrity sha512-DdeBLQxQ+ZrtmwEmaj7GQ7lbzPCgbbbyAqOz/I4ulo68hwBpfdNvQJ5bmihJUkAAKOeCmqCIG3OFZGosqFN4mA==
+"@msw/url@^0.1.3":
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/@msw/url/-/url-0.1.3.tgz#a4e1e3401e4ed0aad2e653a2c66d785628138fac"
+  integrity sha512-IvN0kCVRFtr12gBS3Nk8PRqjWjE/80ydze2DNQ0Z74ZjnMDWibVoaYFqGv9vR2LoiUfcVgEVaBWLFyp15M5YJg==
 
 "@mswjs/interceptors@^0.45.11":
   version "0.45.12"
@@ -8528,13 +8528,13 @@ ms@2.1.3, ms@^2.1.1, ms@^2.1.3:
   resolved "https://registry.npmjs.org/ms/-/ms-2.1.3.tgz"
   integrity sha512-6FlzubTLZG3J2a/NVCAleEhjzq5oxgHyaCU9yYXvcLsvoVaHJq/s5xXI6/XXP6tz7R9xAOtHnSO/tXtF3WRTlA==
 
-msw@^3.0.5:
-  version "3.0.5"
-  resolved "https://registry.yarnpkg.com/msw/-/msw-3.0.5.tgz#02af3e6e481b696f19696594f9328c0a0492b1f9"
-  integrity sha512-RkzyWIaG+T2jYf9KOUrNOZuXl4sCpz35m13nVlt1ACFQhl/WjHU9zKMwlrR/6NatgKjL5U84UmVXOz9/+mvGsw==
+msw@^3.0.7:
+  version "3.0.7"
+  resolved "https://registry.yarnpkg.com/msw/-/msw-3.0.7.tgz#83118aa0d4f0888c2f3c3ae4fc200bd44dbde2cb"
+  integrity sha512-e9BmzG3HN2J8VOUbEYU7OJQ7tgNS7GfPmG86jv3hKZks0iiFA0sh1colqLVjPEckU+QLWjWNximsLzykVdINgQ==
   dependencies:
     "@inquirer/confirm" "^6.0.11"
-    "@msw/url" "^0.1.2"
+    "@msw/url" "^0.1.3"
     "@mswjs/interceptors" "^0.45.11"
     cookie "^2.0.1"
     headers-polyfill "^5.0.1"
